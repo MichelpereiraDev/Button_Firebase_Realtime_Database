@@ -1,0 +1,39 @@
+name: button_iot
+description: App faz conexão com Esp8266 via Firebase Realtime Database.
+
+
+
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.18.0-105.0.dev <3.0.0'
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_database: ^9.0.15
+  firebase_core: ^1.14.0
+
+ 
+  cupertino_icons: ^1.0.2
+  shared_preferences: ^2.0.15
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  
+  flutter_lints: ^2.0.0
+
+
+
+
+flutter:
+
+  
+  uses-material-design: true
+
+  
