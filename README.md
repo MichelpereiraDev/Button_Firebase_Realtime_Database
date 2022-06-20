@@ -1,16 +1,12 @@
-# button_iot
 
-A new Flutter project.
 
-## Getting Started
+<h1 align="center">Button_Iot </h1>
 
-This project is a starting point for a Flutter application.
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
-A few resources to get you started if this is your first Flutter project:
+Esse App utiliza o Package Firebase_database com dados guardados pelo Package SharedPreferences.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![WhatsApp Image 2022-06-20 at 09 46 34](https://user-images.githubusercontent.com/8737264/174606639-6dcae984-f90b-4666-9c24-c44b6a500bab.jpeg)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+![WhatsApp Image 2022-06-20 at 09 55 58](https://user-images.githubusercontent.com/8737264/174606694-f5f43902-fd33-4c40-b4d7-9f933de43b08.jpeg)
